@@ -5,9 +5,9 @@
     "name": "QipIM",
     "summary": "ICQ/OSCAR совместимый IM клиент",
     "description": "Нативный клиент для Win10 и Win11.\n Реализованы все основные функции клиентов ICQ",
-    "icon": "https://github.com/symnok/qipim/main/docs/qipim-512-white.png",
+    "icon": "https://github.com/symnok/qipim/blob/main/docs/qipim-512-white.png",
     "screenshots": [
-        "https://raw.githubusercontent.com/symnok/qipim/main/docs/screenshot.png"
+        "https://raw.githubusercontent.com/symnok/qipim/blob/main/docs/screenshot.png"
     ],
     "category": "client",
     "license": "freeware",
