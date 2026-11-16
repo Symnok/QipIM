@@ -1,0 +1,29 @@
+{
+    "$schema": "https://jimm.online/store/manifest.schema.json",
+    "schema": 1,
+    "id": "qipim-win",
+    "name": "QipIM",
+    "summary": "ICQ/OSCAR совместимый IM клиент",
+    "description": "Нативный клиент для Win10 и Win11.\n Реализованы все основные функции клиентов ICQ",
+    "icon": "https://github.com/symnok/qipim/main//docs/qipim-512-white.png",
+    "screenshots": [
+        "https://raw.githubusercontent.com/symnok/qipim/main/docs/screenshot.png"
+    ],
+    "category": "client",
+    "license": "T.B.D.",
+    "developer": {
+        "name": "Symnok",
+        "url": "https://github.com/symnok"
+    },
+    "homepage": "https://github.com/symnok",
+    "platforms": [
+        {
+            "os": "Windows",
+            "min_version": "10",
+            "source": {
+                "type": "github",
+                "repo": "symnok/qipim"
+            }
+        }
+    ]
+}
