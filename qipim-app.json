@@ -10,7 +10,7 @@
         "https://raw.githubusercontent.com/symnok/qipim/main/docs/screenshot.png"
     ],
     "category": "client",
-    "license": "T.B.D.",
+    "license": "freeware",
     "developer": {
         "name": "Symnok",
         "url": "https://github.com/symnok"
@@ -18,7 +18,7 @@
     "homepage": "https://github.com/symnok",
     "platforms": [
         {
-            "os": "Windows",
+            "os": "windows",
             "min_version": "10",
             "source": {
                 "type": "github",
