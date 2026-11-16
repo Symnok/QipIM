@@ -23,7 +23,7 @@
             "source": {
                 "type": "github",
                 "repo": "symnok/qipim"
-            }
+            } 
         }
     ]
 }
